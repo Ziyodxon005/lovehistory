@@ -1,5 +1,5 @@
 {
-  "name": "sevgi-hikoyasi",
+  "name": "Sevgi_hikoyasi",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -14,3 +14,4 @@
     "lucide-react": "^0.283.0"
   }
 }
+
